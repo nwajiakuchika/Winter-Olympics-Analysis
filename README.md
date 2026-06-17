@@ -26,5 +26,42 @@ information such as:
 | Sports | Category |
 | Events | Specific competition events |
 | Medal | Medal won (Gold,Silver,Broonze) |
+**Project Objective**
+
+- Analyze athlete participation across Winter Olympic GAMES
+- Examine age and gender distribution of athletes
+- Identify countries with highest participation rates
+- Explore medal winning trends nation and sports
+- Investigate the most popular Winter Olympic sports and events
+
+- **Tools and Liberies**
+
+- Python
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Jupiter Notebook
+
+** Key Area of Analysis**
+
+- Athlete Demographics
+- Gender Participation Trends
+- Country Representation
+- Medal Distribution Analysis
+- Popular Sports and Events
+- Olympic Host City Analysis
+- Historical Participation Trends
+
+- **Conclusion**
+
+- The analysis provide insight into the history and development of Winter Olympic Games
+- Highlighting participation patterns,medal achievements,and contribution of athletes
+- and nations across different Olympic edition.
+
+- **AUTHOR**
+
+- Chika
+
 
 
