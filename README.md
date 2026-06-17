@@ -15,5 +15,16 @@ information such as:
 | Features | Description |
 |----------|-------------|
 | Name | Athlete's name |
+| Sex | Gender of Athlete |
+| Age | Athlete Age during compitition |
+| Team | Country or Team representing |
+| NOC | National Olypic Committee code |
+| Games | Olympic Year edition |
+| Year | Year of the Olympic |
+| Season | Olympic Season (Winter) |
+| City | Host City |
+| Sports | Category |
+| Events | Specific competition events |
+| Medal | Medal won (Gold,Silver,Broonze) |
 
 
