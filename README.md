@@ -13,6 +13,7 @@ The data contains records od athletes who participated in Winter Olympic Games,a
 information such as:
 
 | Features | Description |
-| Age | Customer Age |
+|----------|-------------|
+| Name | Athlete's name |
 
 
